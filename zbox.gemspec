@@ -15,5 +15,5 @@ Gem::Specification.new do |s|
 
   s.files = Dir["{lib}/**/*", "MIT-LICENSE",  "README.md"]
 
-  s.add_runtime_dependency 'quick_magick', '~> 0'
+  #s.add_runtime_dependency 'quick_magick', '~> 0'
 end
